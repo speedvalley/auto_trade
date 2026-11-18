@@ -1,0 +1,60 @@
+{
+  "as_of": "2026-11-18",
+  "items": [
+    {
+      "ticker": "AAPL",
+      "date": "2026-11-02",
+      "headline": "Apple beat Q4 estimates (revenue $114.5B, +12%) but shares fell ~3% after hours on memory-cost and holiday-margin worries",
+      "event_type": "earnings",
+      "sentiment": 0,
+      "confidence": 0.6,
+      "horizon": "short",
+      "source_url": "https://9to5mac.com/2026/11/02/apple-stock-drops-nearly-3-after-hours-following-q4-2026-results/",
+      "summary": "決算は好調だが、メモリ価格上昇と年末商戦の利益率懸念で株価は下落。好材料と悪材料が相殺するため0点。"
+    },
+    {
+      "ticker": "XOM",
+      "date": "2026-11-04",
+      "headline": "DZ Bank downgraded ExxonMobil from hold to sell with a $170 price target",
+      "event_type": "other",
+      "sentiment": -1,
+      "confidence": 0.5,
+      "horizon": "short",
+      "source_url": "https://www.marketbeat.com/instant-alerts/price-exxonmobil-nyse-xom-shares-climb-13-heres-why-2026-11-11/",
+      "summary": "格下げは1社のみ。他の分析会社の平均は買い寄りで割れている。集計サイト経由のため確度は低め。"
+    },
+    {
+      "ticker": "XOM",
+      "date": "2026-10-30",
+      "headline": "ExxonMobil announced third-quarter 2026 results; strong refining profitability credited for a beat",
+      "event_type": "earnings",
+      "sentiment": 1,
+      "confidence": 0.5,
+      "horizon": "long",
+      "source_url": "https://www.oilandgas360.com/exxonmobil-announces-third-quarter-2026-results/",
+      "summary": "第3四半期決算。精製事業の利益が好調との要約。詳細な数値は未確認。"
+    },
+    {
+      "ticker": "6861.T",
+      "date": "2026-10-29",
+      "headline": "Keyence announced earnings, a dividend increase and a 5-for-1 stock split (effective Nov 21)",
+      "event_type": "earnings",
+      "sentiment": 1,
+      "confidence": 0.6,
+      "horizon": "long",
+      "source_url": "https://scouter.monex.co.jp/report/disclose/6861?disc_type=0",
+      "summary": "決算と増配、1株→5株の株式分割を同時に発表。分割自体は企業価値を変えないが、株価データが1/5になる点に注意(データ補正の対象)。"
+    },
+    {
+      "ticker": "EPHE",
+      "date": "2026-11-13",
+      "headline": "PSEi fell 1.2% to 5,593, a 2026 low, as the peso weakened to record lows and Middle East tensions weighed",
+      "event_type": "macro",
+      "sentiment": -1,
+      "confidence": 0.5,
+      "horizon": "short",
+      "source_url": "https://business.inquirer.net/620796/psei-drops-to-2026-low-as-peso-weakens/amp",
+      "summary": "フィリピン株は年初来安値圏、ペソ安も重なる。円換算ではペソ・ドルの動きも影響する。"
+    }
+  ]
+}
